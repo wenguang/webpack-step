@@ -1,0 +1,13 @@
+body {
+	background: white;
+}
+#logo1 {
+	width: 300;
+	height: 300;
+	background-image: url(img/logo-220k.png);
+}
+#logo2 {
+	width: 300;
+	height: 300;
+	background-image: url(img/logo-338k.png);
+}
